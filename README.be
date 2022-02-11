@@ -1,0 +1,1 @@
+This website contains some random color bars. I made this to calibrate my dual monitor color and brightness. Feel free to use it.
